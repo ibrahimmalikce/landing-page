@@ -37,7 +37,6 @@
   padding: 20px;
   border-radius: 10px;
   margin-top: 20px;
-  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
 }
 .formwrapper > form {
   display: flex;
